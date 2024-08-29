@@ -1,4 +1,4 @@
-
+//Laver en playliste med 10 sange :)
 
      const playliste = document.querySelector("ul");
 
